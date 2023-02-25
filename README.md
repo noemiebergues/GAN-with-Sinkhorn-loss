@@ -7,7 +7,7 @@ During this project we studied the "Learning generative models with Sinkhorn div
 
 - Noémie BERGUES ([github](https://github.com/noemiebergues))
 
-- Samuel GIRARD ([github]())
+- Samuel GIRARD ([github](https://github.com/Samtasty))
 
 
 ### Bibliography
